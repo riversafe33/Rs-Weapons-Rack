@@ -80,7 +80,7 @@ Config.WeaponLabels = {
 Config.WeaponsAllowedInRack = { -- don't touch it if you don't know what you're doing
     ["rifles"] = {
         ["WEAPON_RIFLE_SPRINGFIELD"] = {
-            offset = {x = -0.235, y = -0.241, z = 0.44},
+            offset = {x = -0.234, y = -0.241, z = 0.44},
             rotation = {x = 0.0, y = -66.0, z = 90.0}
         },
         ["WEAPON_RIFLE_BOLTACTION"] = {
@@ -88,47 +88,47 @@ Config.WeaponsAllowedInRack = { -- don't touch it if you don't know what you're 
             rotation = {x = 0.0, y = -67.0, z = 90.0}
         },
         ["WEAPON_SNIPERRIFLE_CARCANO"] = {
-            offset = {x = -0.235, y = -0.265, z = 0.40},
+            offset = {x = -0.234, y = -0.265, z = 0.40},
             rotation = {x = 0.0, y = -65.5, z = 90.0}
         },
         ["WEAPON_SNIPERRIFLE_ROLLINGBLOCK"] = {
-            offset = {x = -0.250, y = -0.21, z = 0.52},
+            offset = {x = -0.234, y = -0.21, z = 0.52},
             rotation = {x = 0.0, y = -63.0, z = 90.0}
         },
         ["WEAPON_RIFLE_ELEPHANT"] = {
-            offset = {x = -0.25, y = -0.235, z = 0.562},
+            offset = {x = -0.234, y = -0.235, z = 0.562},
             rotation = {x = 0.0, y = -58.0, z = 90.0}
         },
         ["WEAPON_REPEATER_WINCHESTER"] = {
-            offset = {x = -0.245, y = -0.241, z = 0.44},
+            offset = {x = -0.234, y = -0.241, z = 0.44},
             rotation = {x = 0.0, y = -61.0, z = 90.0}
         },
         ["WEAPON_REPEATER_HENRY"] = {
-            offset = {x = -0.254, y = -0.241, z = 0.44},
+            offset = {x = -0.234, y = -0.241, z = 0.44},
             rotation = {x = 0.0, y = -63.5, z = 90.0}
         },
         ["WEAPON_REPEATER_EVANS"] = {
-            offset = {x = -0.254, y = -0.241, z = 0.44},
+            offset = {x = -0.234, y = -0.241, z = 0.44},
             rotation = {x = 0.0, y = -63.5, z = 90.0}
         },
         ["WEAPON_REPEATER_CARBINE"] = {
-            offset = {x = -0.254, y = -0.241, z = 0.44},
+            offset = {x = -0.234, y = -0.241, z = 0.44},
             rotation = {x = 0.0, y = -63.5, z = 90.0}
         },
         ["WEAPON_SHOTGUN_SEMIAUTO"] = {
-            offset = {x = -0.254, y = -0.241, z = 0.41},
+            offset = {x = -0.234, y = -0.241, z = 0.41},
             rotation = {x = 0.0, y = -65.2, z = 90.0}
         },
         ["WEAPON_SHOTGUN_REPEATING"] = {
-            offset = {x = -0.254, y = -0.228, z = 0.44},
+            offset = {x = -0.234, y = -0.228, z = 0.44},
             rotation = {x = 0.0, y = -65.2, z = 90.0}
         },
         ["WEAPON_SHOTGUN_PUMP"] = {
-            offset = {x = -0.254, y = -0.255, z = 0.44},
+            offset = {x = -0.234, y = -0.255, z = 0.44},
             rotation = {x = 0.0, y = -66.0, z = 90.0}
         },
         ["WEAPON_SHOTGUN_DOUBLEBARREL"] = {
-            offset = {x = -0.254, y = -0.25, z = 0.56},
+            offset = {x = -0.234, y = -0.25, z = 0.56},
             rotation = {x = 0.0, y = -60.0, z = 90.0}
         },
     },
