@@ -18,26 +18,26 @@ Config.Keys = {
 
 Config.Notify = {
     Rack = "Rack",
-    Place = "Rack colocado correctamente",
-    Cancel = "Colocación cancelada",
-    Already = "Ya tienes un estante colocado",
-    NotOwner = "No eres dueño de este rack",
-    Picked = "Rack recogido correctamente",
-    TooFar = "Estás demasiado lejos del rack",
-    Weaponsin = "No puedes recoger el rack, todavía tiene armas guardadas",
-    Error = "Error al entregar el arma",
-    Collect = "Has retirado tu arma",
-    NotWeapon = "Arma no disponible en el estante",
-    Notequippet = "No tienes esa arma equipada o no se pudo quitar", 
-    SaveWeapon = "Arma guardada en el estante",
-    WeaponinRack = "El arma ya está en el estante",
-    RackFull = "El estante ya está lleno",
-    Notequippe = "No tienes esa arma equipada",
-    InvalidRack = "Estante no válido",
+    Place = "Rack placed successfully",
+    Cancel = "Placement canceled",
+    Already = "You already have a rack placed",
+    NotOwner = "You are not the owner of this rack",
+    Picked = "Rack picked up successfully",
+    TooFar = "You are too far from the rack",
+    Weaponsin = "You cannot pick up the rack, it still has weapons stored",
+    Error = "Error delivering the weapon",
+    Collect = "You have withdrawn your weapon",
+    NotWeapon = "Weapon not available in the rack",
+    Notequippet = "You don’t have that weapon equipped or it could not be removed",
+    SaveWeapon = "Weapon stored in the rack",
+    WeaponinRack = "The weapon is already in the rack",
+    RackFull = "The rack is already full",
+    Notequippe = "You don’t have that weapon equipped",
+    InvalidRack = "Invalid rack",
     Menu = {
         Tittle = "Weapons rack",
         Select = "Select a weapon to remove it",
-        Empty = "Vacío",
+        Empty = "Empty",
         Remove = "Remove from rack: Slot ",
         NotWeapons = "There are no weapons in storage",
     },
@@ -47,18 +47,17 @@ Config.Notify = {
         Change = "Only numbers between 0.01 and 5 are allowed",
         Speed = "Change Speed",
     },
-    
 }
 
 Config.ControlTranslations = {
-    title = "Controles",
+    title = "Controls",
     items = {
-        { label = "Mover", text = "[← ↑ ↓ →] - Mover objeto" },
-        { label = "Rotar", text = "[1/2]     - Rotar objeto" },
-        { label = "Altura", text = "[7/8]     - Subir/Bajar" },
-        { label = "Confirmar", text = "[ENTER]   - Confirmar posición" },
-        { label = "Cancelar", text = "[G]       - Cancelar colocación" },
-        { label = "Velocidad", text = "[3]       - Ajustar velocidad" }
+        { label = "Move", text = "[← ↑ ↓ →] - Move object" },
+        { label = "Rotate", text = "[1/2]     - Rotate object" },
+        { label = "Height", text = "[7/8]     - Raise/Lower" },
+        { label = "Confirm", text = "[ENTER]   - Confirm position" },
+        { label = "Cancel", text = "[G]       - Cancel placement" },
+        { label = "Speed", text = "[3]       - Adjust speed" }
     }
 }
 
