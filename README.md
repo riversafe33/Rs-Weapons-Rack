@@ -1,5 +1,9 @@
 To improve my PC and continue offering free scripts: https://ko-fi.com/riversafe33
 
+Dependency
+
+https://github.com/riversafe33/uiprompt
+
 Weapon Rack Script
 
 This script allows you to place a weapon rack using an item and store your weapons in it. 
