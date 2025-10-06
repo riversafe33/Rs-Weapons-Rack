@@ -24,6 +24,8 @@ Only the player who placed the rack has access to the stored weapons and can pic
 
 ![2](https://github.com/user-attachments/assets/fc29b509-8dd6-4b5a-ba95-344f438859a8)
 
-![3](https://github.com/user-attachments/assets/9c00a4f3-ce34-4b39-a93a-4be22ddec716)
+![rck](https://github.com/user-attachments/assets/5e0e98bc-0cc6-4c60-affd-ea729b876d66)
 
-![4](https://github.com/user-attachments/assets/86c06909-4695-4c18-a9dd-ed8b4c583139)
+![rck2](https://github.com/user-attachments/assets/89e1b125-bb12-4f06-8063-d4c0dc91e3ea)
+
+![rck3](https://github.com/user-attachments/assets/e722baae-ebc2-4213-af95-788c4c40bf91)
